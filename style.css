@@ -34,3 +34,15 @@ h6 {
 .large {
     font-size: 30px;
 }
+
+.center {
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+}
+
+.weight {
+    font-weight: bold;
+}
