@@ -71,3 +71,14 @@ a:hover {
     font-size: xx-large;
     font-variant: small-caps;
 }
+
+#para {
+    color: green;
+} 
+
+.test {
+    color: orange;
+}
+
+
+
