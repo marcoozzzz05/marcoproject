@@ -52,3 +52,7 @@ h6 {
 .weight {
     font-weight: bold;
 }
+
+h1,h2,h3 {
+    background-color: green;
+}
