@@ -4,17 +4,8 @@
     box-sizing: border-box;
 }
 
-p {
-    color: blue;
-    text-align: right;
-}
-
 h1 {
     color: aqua;
-}
-
-h2 {
-    color: fuchsia;
 }
 
 h3 {
@@ -53,10 +44,6 @@ h6 {
     font-weight: bold;
 }
 
-h1,h2,h3 {
-    background-color: green;
-}
-
 a:hover {
     background-color: red;
 }
@@ -80,5 +67,8 @@ a:hover {
     color: orange;
 }
 
-
+div {
+    text-align: center; 
+    color: red;
+}
 
