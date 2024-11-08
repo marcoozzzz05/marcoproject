@@ -24,6 +24,10 @@ h6 {
     color: orange
 }
 
+ul {
+    padding-left: 30px;
+}
+
 #sfondo {
     background-color: navy;
 }
@@ -87,3 +91,29 @@ div {
 #marco {
     color: cyan;
 }
+
+header {
+    background-color: black;
+    padding: 20px 0;
+}
+
+header nav {
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+    gap: 30px;
+    padding-left: 0;
+}
+
+header nav a {
+    color: white;
+    text-transform: uppercase;
+}
+
