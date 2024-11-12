@@ -113,3 +113,15 @@ header nav a {
     margin: 15px;
     border: 10px solid green;
 }
+
+#para1 {
+    color: green;
+}
+
+.test1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
