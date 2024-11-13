@@ -188,3 +188,11 @@ p {
     position: static;
     bottom: 0;
 }
+
+#quadrato {
+    position: absolute;
+    right: 0;
+    border: 3px solid purple;
+    width: 150px;
+    height: 150px;
+}
