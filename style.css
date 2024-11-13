@@ -125,3 +125,7 @@ header nav a {
 p {
     color: blue;
 }
+
+#lista_orizzontal li {
+    display: inline-block;
+}
