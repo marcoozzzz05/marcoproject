@@ -172,3 +172,13 @@ p {
     clear: both;
 }
 
+.sticky {
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    border: 1px solid green;
+}
+
+#prova_sticky {
+    padding-bottom: 1500px;
+}
