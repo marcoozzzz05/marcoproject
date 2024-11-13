@@ -172,11 +172,12 @@ p {
     clear: both;
 }
 
-.sticky {
-    position: sticky;
+.fixed {
+    position: fixed;
     top: 0;
+    right: 0;
     padding: 10px;
-    border: 1px solid green;
+    border: 3px solid red;
 }
 
 #prova_sticky {
