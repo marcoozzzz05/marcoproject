@@ -153,3 +153,7 @@ p {
 .image img {
     float: right;
 }
+
+#parag {
+    clear: right;
+}
