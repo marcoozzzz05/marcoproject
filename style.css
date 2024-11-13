@@ -139,6 +139,7 @@ p {
 
 #para2 span:first-child {
     display: block;
+    display: none;
 }
 
 #para2 span:nth-child(2) {
