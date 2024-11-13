@@ -183,3 +183,8 @@ p {
 #prova_sticky {
     padding-bottom: 1500px;
 }
+
+#bottom {
+    position: static;
+    bottom: 0;
+}
