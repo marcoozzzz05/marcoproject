@@ -149,3 +149,7 @@ p {
 #para2 span:nth-child(3) {
     display: inline
 }
+
+.image img {
+    float: right;
+}
