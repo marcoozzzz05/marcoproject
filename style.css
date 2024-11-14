@@ -224,3 +224,9 @@ p {
     height: 35px;
     font-size: 40px;
 }
+
+.quadrato_perc {
+    width: 20%;
+    padding-bottom: 20%;
+    background-color: blue;
+}
