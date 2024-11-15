@@ -1,4 +1,10 @@
+:root {
+    --colore: red;
+}
 
+ * {
+    color: var(--colore);
+ }
 
 h1 {
     color: aqua;
