@@ -1,0 +1,65 @@
+.grid {
+    display: flex;
+    color: white;
+    gap: 15px;
+}
+
+.grid_item {
+    background-color: red;
+    flex-basis: 20%;
+    height: 200px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid_item:first-child {
+    background-color: aqua;
+    align-items: flex-start;
+}
+
+.grid_item:nth-child(2){
+    background-color: beige;
+    align-items: flex-end;
+}
+
+.grid_item:nth-child(3){
+    background-color: blue;
+    align-items: flex-start;
+}
+
+.grid_item:nth-child(4){
+    background-color: green;
+    align-items: flex-end;
+}
+
+.grid_item:nth-child(5){
+    background-color: yellow;
+    align-items: flex-start;
+}
+
+header {
+    background-color: black;
+}
+
+header nav ul li {
+    color: white;
+}
+
+nav a {
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
