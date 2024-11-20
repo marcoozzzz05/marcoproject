@@ -63,3 +63,8 @@ ul {
     gap: 20px;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
